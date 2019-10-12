@@ -1,1 +1,3 @@
-# Simon-game
+## This is one of the projects from jquery section of the web development course. 
+
+I have learned most of the basic of jQuery and continously practice my HTML and CSS skills. 
